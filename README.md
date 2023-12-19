@@ -63,5 +63,5 @@ roscore
 ```
 2. Run the launch file:
 ```
-roslaunch jetson_nanobot.launch
+roslaunch launch_jetson_nano_bot jetson_nanobot.launch
 ```
